@@ -15,7 +15,6 @@
   <a href="https://drive.google.com/file/d/1c006M9l2x96Sc9b_1s7E35kQaS4cHRE8/view?usp=sharing"> https://drive.google.com/file/d/1c006M9l2x96Sc9b_1s7E35kQaS4cHRE8/view?usp=sharing </a>
   
   
-## Table of Contents:
 
 ## Technology Stack:
   1) Python
